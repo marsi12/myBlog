@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-hi guysssssssssssssssss
+title: Welcome to my blog hi guysssssssssssssssss
 ---
 
